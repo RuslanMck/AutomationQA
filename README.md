@@ -1,1 +1,1 @@
-# HillelAutomationQA
+# AutomationQA
